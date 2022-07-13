@@ -1,2 +1,2 @@
-## Maxime Pelcat Home Page
+## Research and teaching profiles
 
