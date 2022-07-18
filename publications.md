@@ -1,4 +1,4 @@
-layout: page
+layout: page  
 permalink: /publications/
 
 Test3
