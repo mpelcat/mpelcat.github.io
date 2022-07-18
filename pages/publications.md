@@ -1,7 +1,4 @@
 layout: page
-
-title: "Publications"
-
 permalink: /publications/
 
-Test2
+Test3
