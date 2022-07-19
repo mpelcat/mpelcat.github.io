@@ -2,11 +2,11 @@
 Publications
 ---
 
-# Journal publications
+### Journal publications
 
-# Conference publications
+### Conference publications
 
-# Book
+### Book
 
-# Book Chapters
+### Book Chapters
 
