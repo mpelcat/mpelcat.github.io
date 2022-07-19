@@ -1,4 +1,12 @@
-layout: page  
-permalink: /publications/
+---
+Publications
+---
 
-Test3
+# Journal publications
+
+# Conference publications
+
+# Book
+
+# Book Chapters
+
