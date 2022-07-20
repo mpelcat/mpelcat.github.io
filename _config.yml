@@ -1,3 +1,12 @@
 theme: jekyll-theme-slate
 title: Home page
 description: Maxime Pelcat - research and teaching profiles
+
+url: "https://mpelcat.github.io"
+
+email: "mpelcat@insa-rennes.fr"
+github_username: mpelcat
+linkedin_username: mpelcat
+
+header_pages:
+  - publications/index.md
