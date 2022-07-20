@@ -1,3 +1,5 @@
+![photo](img/mpelcat_profil.png)
+
 #### Main teaching and research interests
 
 I am an associate professor at the National Institute of Applied Sciences ([INSA](https://www.insa-rennes.fr/)) in Rennes. I teach embedded systems design subjects in the [EII](https://www.insa-rennes.fr/eii.html) and [eCDTI](https://www.insa-rennes.fr/cdti.html) departments. My main courses are:
