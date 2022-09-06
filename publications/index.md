@@ -185,7 +185,9 @@ title: Publications
 
 Book Review [R1] on our book "Physical Layer Multicore Prototyping: A Dataflow-Based Approach for LTE eNodeB" - "Let's Get Physical" by Grant Martin, IEEE Design & Test, July/August 2014.  
 
-#### 2013  [C12] Zhang, Jinglin; Nezan, Jean-François; Pelcat, Maxime; Cousin, Jean-Gabriel(2013). "Real-time GPU-based local stereo matching method", DASIP Conference, Cagliari, Italy.  
+#### 2013  
+
+[C12] Zhang, Jinglin; Nezan, Jean-François; Pelcat, Maxime; Cousin, Jean-Gabriel(2013). "Real-time GPU-based local stereo matching method", DASIP Conference, Cagliari, Italy.  
 
 [C11] Zhou, Zheng;Desnos, Karol;Pelcat, Maxime;Nezan, Jean-François;Plishker, William;Bhattacharyya, Shuvra S. (2013)"Scheduling of Parallelized Synchronous Dataflow Actors", SoC 2013 Conference, Tampere, Finland  
 

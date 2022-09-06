@@ -1,6 +1,8 @@
-#### Main teaching and research interests
+![photo](img/mpelcat_profil.png)
 
-I am an associate professor at the National Institute of Applied Sciences ([INSA](https://www.insa-rennes.fr/)) in Rennes. I teach embedded systems design subjects in the [EII](https://www.insa-rennes.fr/eii.html) and [eCDTI](https://www.insa-rennes.fr/cdti.html) departments. My main courses are:
+### Main teaching and research interests
+
+I am an associate professor at the National Institute of Applied Sciences ([INSA](https://www.insa-rennes.fr/)) in Rennes, France. I teach embedded systems design subjects in the [EII](https://www.insa-rennes.fr/eii.html) and [eCDTI](https://www.insa-rennes.fr/cdti.html) departments. My main courses are:
 - VHDL register-transfer level system design
 - Digital hardware design including softcore integration and HW-SW interactions
 - Microcontroller programming and I/Os
@@ -14,6 +16,18 @@ My current main interests are sustainable, open and secure systems design with p
 - Machine learning at the edge
 - Security against electromagnetic side channels
 
-#### Bio
+My research is in the [VAADER](https://www.youtube.com/channel/UCXlqd2OoxNRVsaI-90riYug/videos) team of [IETR](https://www.ietr.fr/), the 6164 CNRS research unit. I have co-advised the following defended PhD theses:
 
-Dr. Maxime Pelcat is an Associate Professor at INSA Rennes. He holds a research appointment at IETR in Rennes, the 6164 CNRS research unit. Maxime Pelcat obtained his Habilitation (HDR) in hardware architecture for signal processing from Université Clermont Auvergne in 2017, and his Ph.D. in signal processing from INSA Rennes in 2010 in collaboration with Texas Instruments. Previously, after one year in the Audio and Multimedia department at Fraunhofer Institute IIS in Erlangen, Germany, he worked as a contractor at France Telecom Research and Development until 2006. He is an author of more than 80 peer reviewed publications in the domains of models of computation, models of architecture, systems efficiency, system design productivity, multimedia and telecommunication processing, and programming of parallel embedded systems. Maxime Pelcat has been a member of technical programs of SAMOS-IC, PDP, MEMOCODE, EDERC, ICDSC, GlobalSIP, ReCoSoC and SiPS. He is an associate editor of the Springer Journal of Signal Processing Systems. He has been program chair of SAMOS-IC 2019 and is general chair of the 2020 GDR SOC2 colloquium and SiPS 2022 conference. He has participated to 1 H2020 ICT, 1 H2020 ITN, 1 NSF, 1 FUI, and 2 ANR projects. Maxime Pelcat has been an elected member of CNRS national committee CoNRS, Section 07 "Information Science" from 2018 to 2021. He is an author of the book "Physical Layer Multi-Core Prototyping" Springer, 2012.
+- Florian Lemarchand "Deep-Learning Based Exploitation of Eavesdropped Images", Ph.D. thesis, INSA Rennes, 2021.  
+- Jonathan Bonnard "Étude, conception et mise en oeuvre d’un système intelligent de vision multi-vues", Ph.D. thesis, Institut Pascal, 2021.  
+- Claudio Rubattu "Response time analysis of parameterized dataflow applications on heterogeneous SW/HW systems", Ph.D. thesis, INSA Rennes, 2020.  
+- El Mehdi Abdali "Study and implementation of a system dedicated to active vision on a dynamically reconfigurable architecture.", Ph.D. thesis, Université Clermont Auvergne, 2020.  
+- Kamel Abdelouahab "Reconfigurable hardware acceleration of CNNs on FPGA-based smart cameras", Ph.D. thesis, Université Clermont Auvergne, 2018.  
+- Alexandre Mercat "Complexity Control for Low-Power HEVC Encoding", Ph.D. thesis, INSA Rennes, 2018.  
+- Erwan Nogues "Energy Optimization of Signal Processing on MPSoCs and its Application to Video Decoding", Ph.D. thesis, INSA Rennes, 2016. Best PhD Award 2016 from Fondation Rennes 1.  
+- Julien Heulot "Combinaison d’un environnement de compilation flux de données et d’un ordonnanceur adaptatif pour la programmation de plateformes hétérogènes", Ph.D. thesis, INSA Rennes, 2015.  
+- Karol Desnos "Etude mémoire et représentations flux de données pour le prototypage rapide d’applications de traitement du signal sur MPSoCs", Ph.D. thesis, INSA Rennes, 2014.  
+
+### Bio
+
+Dr. Maxime Pelcat is an Associate Professor at INSA Rennes. He holds a research appointment at IETR in Rennes, the 6164 CNRS research unit. Maxime Pelcat obtained his Habilitation (HDR) in hardware architecture for signal processing from Université Clermont Auvergne in 2017, and his Ph.D. in signal processing from INSA Rennes in 2010 in collaboration with Texas Instruments. Previously, after one year in the Audio and Multimedia department at Fraunhofer Institute IIS in Erlangen, Germany, he worked as a contractor at France Telecom Research and Development until 2006. He is an author of more than 80 peer reviewed publications in the domains of models of computation, models of architecture, systems efficiency, system design productivity, multimedia and telecommunication processing, and programming of parallel embedded systems. Maxime Pelcat has been a member of technical programs of SAMOS-IC, PDP, MEMOCODE, EDERC, ICDSC, GlobalSIP, ReCoSoC and SiPS. He is an associate editor of the Springer Journal of Signal Processing Systems. He has been program chair of SAMOS-IC 2019 and general chair of the 2020 GDR SOC2 colloquium and of the SiPS 2022 conference. He has participated to 1 H2020 ICT, 1 H2020 ITN, 1 NSF, 1 FUI, and 2 ANR projects. Maxime Pelcat has been an elected member of CNRS national committee CoNRS, Section 07 "Information Science" from 2018 to 2021. He is an author of the book "Physical Layer Multi-Core Prototyping" Springer, 2012.
