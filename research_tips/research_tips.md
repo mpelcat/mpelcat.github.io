@@ -8,7 +8,7 @@ Here are some frequently given pieces of advice for research. They are gathered 
 
 All scientific papers are written using the same method.
 
-https://en.wikipedia.org/wiki/IMRAD
+[https://en.wikipedia.org/wiki/IMRAD](https://en.wikipedia.org/wiki/IMRAD)
 
 Some reading tips:
 
@@ -29,25 +29,25 @@ A journal paper, usually longer in number of pages, requires more time for each 
 ## Finding scientific articles
 
 You can find PDF versions of articles on the free access Google Scholar repository: 
-- https://scholar.google.com/
+- [https://scholar.google.com/](https://scholar.google.com/)
 
 and on websites accessible for a fee, depending on your institution subscriptions:
-- https://dl.acm.org/
-- https://ieeexplore.ieee.org/Xplore/home.jsp
-- https://www.elsevier.com
-- https://www.springer.com
+- [https://dl.acm.org/](https://dl.acm.org/)
+- [https://ieeexplore.ieee.org/Xplore/home.jsp](https://ieeexplore.ieee.org/Xplore/home.jsp)
+- [https://www.elsevier.com](https://www.elsevier.com)
+- [https://www.springer.com](https://www.springer.com)
 
 Many other websites reference publications, sometimes with PDFs. Open archiving systems include:
-- https://arxiv.org/
-- https://hal.archives-ouvertes.fr/ (where we reference our publications)
-- https://tel.archives-ouvertes.fr/ (same as HAL for PhD thesis and HDR documents)
+- [https://arxiv.org/](https://arxiv.org/)
+- [https://hal.archives-ouvertes.fr/](https://hal.archives-ouvertes.fr/) (where we reference our publications)
+- [https://tel.archives-ouvertes.fr/](https://tel.archives-ouvertes.fr/) (same as HAL for PhD thesis and HDR documents)
 
 ## Building a state-of-the-art review on a subject
 
 You can combine several methods to build a state-of-the-art:
 - find a recent survey on the subject
 - find a recent paper on the subject and explore, breadth-first, its tree of references (i.e. you look in its references for the ones that are close enough to your subject; read these publications, and recursively look at their own references)
-- use keywords on a paper repository such as https://scholar.google.com/
+- use keywords on a paper repository such as [https://scholar.google.com/](https://scholar.google.com/)
 
 Never read without writing something; otherwise you will forget. You can use a tool like [Zotero](https://www.zotero.org/) to organize your read papers.
 
@@ -56,13 +56,13 @@ Never read without writing something; otherwise you will forget. You can use a t
 A good practice is to build your bibliography on peer reviewed publications, i.e. publications evaluated and accepted by expert reviewers with an external view on the subject. When you read a paper, check where it has been published.
 
 Publications ranking is definitely not an exact science but here are some ranking websites for conference publications:
-- http://www.conferenceranks.com/
-- http://portal.core.edu.au/conf-ranks/
+- [http://www.conferenceranks.com/](http://www.conferenceranks.com/)
+- [http://portal.core.edu.au/conf-ranks/](http://portal.core.edu.au/conf-ranks/)
 
 Conferences are ranked A*, A, B, or C based mostly on their acceptance rate (i.e. the rate of papers that get rejected after peer review).
 
 A free access ranking system for journals is:
-- https://www.scimagojr.com/
+- [https://www.scimagojr.com/](https://www.scimagojr.com/)
 
 Journals are ranked there from Q1 (best quarter) to Q4 (last quarter), mostly based on their impact, i.e. on how many people read the articles.
 
@@ -94,7 +94,9 @@ For your figures, I advise to use mostly vector graphics and the open tool Inksc
 
 ## Writing content
 
-You should write something you would like to read, so, given the previous "Reading scientific articles" section:
+You should write something you would like to read. You should also go from very general knowledge to particular knowledge, for your reader to get the context of your discussion.
+
+Given the previous "Reading scientific articles" section here is a proposition of steps:
 
 1. Write your paper "little story"
   - Problem, Postulates, Needs, Competition and Comparison (qualitative or quantitative), Contributions of the paper to meet the needs, Method followed, Expected results
