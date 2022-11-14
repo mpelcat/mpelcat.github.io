@@ -4,7 +4,7 @@ title: Publications
 
 #### 2022 
 
-[C66] Guillaume, Jeremy; Pelcat, Maxime; Nafkha, Amor; Salvador (2022 "Virtual Triggering: a Technique to Segment Cryptographic Processes in Side-Channel Traces", IEEE Workshop on Signal Processing Systems (SiPS 2022), Rennes, France. 
+[C66] Guillaume, Jeremy; Pelcat, Maxime; Nafkha, Amor; Salvador (2022) "Virtual Triggering: a Technique to Segment Cryptographic Processes in Side-Channel Traces", IEEE Workshop on Signal Processing Systems (SiPS 2022), Rennes, France. 
 
 [C65] Ciambra, Pedro;  Dardaillon, Mickael; Pelcat, Maxime; Yviquel, Hervé (2022) "Co-optimizing Dataflow Graphs and Actors with MLIR" IEEE Workshop on Signal Processing Systems (SiPS 2022), Rennes, France. 
 
