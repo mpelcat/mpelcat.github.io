@@ -4,6 +4,12 @@ title: Publications
 
 #### 2022 
 
+[C66] Guillaume, Jeremy; Pelcat, Maxime; Nafkha, Amor; Salvador (2022 "Virtual Triggering: a Technique to Segment Cryptographic Processes in Side-Channel Traces", IEEE Workshop on Signal Processing Systems (SiPS 2022), Rennes, France. 
+
+[C65] Ciambra, Pedro;  Dardaillon, Mickael; Pelcat, Maxime; Yviquel, Hervé (2022) "Co-optimizing Dataflow Graphs and Actors with MLIR" IEEE Workshop on Signal Processing Systems (SiPS 2022), Rennes, France. 
+
+[C64] Desnos, Karol; Bourgoin, Thomas; Dardaillon, Mickael; Sourbier, Nicolas; Gesny, Olivier (2022) "Ultra-Fast Machine Learning Inference through C Code Generation for Tangled Program Graphs", IEEE Workshop on Signal Processing Systems (SiPS 2022), Rennes, France. 
+
 [C63] Sourbier, Nicolas; Bonnot, Justine; Gesny, Olivier; Majorczyk, Frédéric; Desnos, Karol; Guyet, Thomas; Pelcat, Maxime (2022) "Imbalanced Classification with TPG Genetic Programming: Impact of Problem Imbalance and Selection Mechanisms", The Genetic and Evolutionary Computation Conference (GECCO 2022).
 
 [J23] Rubattu, Claudio; Palumbo, Francesca; Bhattacharyya, Shuvra S.; Pelcat, Maxime (2022) "PathTracer: Understanding Response Time of Signal Processing Applications on Heterogeneous MPSoCs", ACM Transactions on Modeling and Performance Evaluation of Computing Systems (ToMPECS), 2022.
