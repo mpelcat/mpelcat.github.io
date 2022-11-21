@@ -4,6 +4,11 @@ title: Research Tips
 
 Here are some frequently given pieces of advice for research. They are gathered here for students to inspire from when putting in place their research method. Please note that this content is provided by Maxime Pelcat, IETR, INSA Rennes under the GNU Affero copyleft license. Most elements are my opinion on the subjects, and are subject to discussions.
 
+## Useful external resources
+
+Vincent Lepetit: https://vincentlepetit.github.io/files/paper_writing.pdf
+Fredo Durant: http://people.csail.mit.edu/fredo/student.html
+
 ## Reading scientific articles
 
 All scientific papers are written using the same method.
