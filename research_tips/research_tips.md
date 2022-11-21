@@ -6,8 +6,9 @@ Here are some frequently given pieces of advice for research. They are gathered 
 
 ## Useful external resources
 
-Vincent Lepetit: https://vincentlepetit.github.io/files/paper_writing.pdf
-Fredo Durant: http://people.csail.mit.edu/fredo/student.html
+from Vincent Lepetit: https://vincentlepetit.github.io/files/paper_writing.pdf
+
+from Fredo Durant: http://people.csail.mit.edu/fredo/student.html
 
 ## Reading scientific articles
 
