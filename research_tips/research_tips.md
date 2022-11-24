@@ -6,9 +6,9 @@ Here are some frequently given pieces of advice for research. They are gathered 
 
 ## Useful external resources
 
-from Vincent Lepetit: https://vincentlepetit.github.io/files/paper_writing.pdf
+from Vincent Lepetit: [https://vincentlepetit.github.io/files/paper_writing.pdf](https://vincentlepetit.github.io/files/paper_writing.pdf)
 
-from Fredo Durant: http://people.csail.mit.edu/fredo/student.html
+from Fredo Durant: [http://people.csail.mit.edu/fredo/student.html](http://people.csail.mit.edu/fredo/student.html)
 
 ## Reading scientific articles
 
@@ -100,7 +100,7 @@ For your figures, I advise to use mostly vector graphics and the open tool Inksc
 
 ## Writing content
 
-You should write something you would like to read. You should also go from very general knowledge to particular knowledge, for your reader to get the context of your discussion.
+You should write something you would like to read. You should also go from very general knowledge to particular knowledge, for your reader to get the context of your discussion. This is true for the whole document but also for each paragraph.
 
 Given the previous "Reading scientific articles" section here is a proposition of steps:
 
@@ -110,7 +110,7 @@ Given the previous "Reading scientific articles" section here is a proposition o
 2. Put the titles of the sections
 3. Draw the figures (to illustrate your point)
 4. Insert the experimental results (this is, if you already have them)
-5. Write the proposal sections (normally it goes fast)
+5. Write the proposal sections (normally it goes fast because you are the expert)
 6. Write the state of the art
 7. Write the intro
 8. Write the abstract and title
