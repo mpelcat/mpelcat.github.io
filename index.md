@@ -16,6 +16,8 @@ My current main interests are sustainable, open and secure systems design with p
 - Machine learning at the edge
 - Security against electromagnetic side channels
 
+On sustainable electronics, I coordinate the [ESOS](https://esos.insa-rennes.fr/) project (Electronics: Sustainable, Open and Sovereign). ESOS is funded by the french France2030 Plan d'Investissement d'Avenir.
+
 My research is in the [VAADER](https://www.youtube.com/channel/UCXlqd2OoxNRVsaI-90riYug/videos) team of [IETR](https://www.ietr.fr/), the 6164 CNRS research unit. I have co-advised the following defended PhD theses:
 
 - Florian Lemarchand "Deep-Learning Based Exploitation of Eavesdropped Images", Ph.D. thesis, INSA Rennes, 2021.  
