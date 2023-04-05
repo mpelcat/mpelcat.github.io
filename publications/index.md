@@ -2,6 +2,10 @@
 title: Publications
 ---
 
+#### 2023
+
+[J24] Carballo-Hernández, Walther; Pelcat, Maxime; Bhattacharyya, Shuvra S.; Carmona Galán, Ricardo; Berry, François (2023) "Flydeling: Streamlined Performance Models for Hardware Acceleration of CNNs through System Identification", ACM Transactions on Modeling and Performance Evaluation of Computing Systems (ToMPECS), 2023.
+
 #### 2022 
 
 [C66] Guillaume, Jeremy; Pelcat, Maxime; Nafkha, Amor; Salvador (2022) "Virtual Triggering: a Technique to Segment Cryptographic Processes in Side-Channel Traces", IEEE Workshop on Signal Processing Systems (SiPS 2022), Rennes, France. 
