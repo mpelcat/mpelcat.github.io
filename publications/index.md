@@ -4,6 +4,8 @@ title: Publications
 
 #### 2023
 
+[C67] Thu, May Myat; Méndez Real, Maria; Pelcat, Maxime; Besnier, Philippe (2023) "Bus Electrocardiogram: Vulnerability of SoC-FPGA Internal AXI Buses to Electromagnetic Side-Channel Analysis", EMC Europe 2023 Kraków, Poland.
+
 [J24] Carballo-Hernández, Walther; Pelcat, Maxime; Bhattacharyya, Shuvra S.; Carmona Galán, Ricardo; Berry, François (2023) "Flydeling: Streamlined Performance Models for Hardware Acceleration of CNNs through System Identification", ACM Transactions on Modeling and Performance Evaluation of Computing Systems (ToMPECS), 2023.
 
 #### 2022 
