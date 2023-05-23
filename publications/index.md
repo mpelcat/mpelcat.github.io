@@ -149,7 +149,7 @@ title: Publications
 
 [C26] Chavarrias, Miguel; Pescador, Fernando; Garrido, Matías J.; Pelcat, Maxime; Juarez, Eduardo (2016) "Design of Multicore HEVC Decoders Using Actor-based Dataflow Models and OpenMP", ICCE Conference 2016.
 
-[J6] Desnos, Karol; Pelcat, Maxime; Nezan, Jean-François, Aridhi, Slaheddine (2016) "On Memory Reuse Between Inputs and Outputs of Dataflow Actors", ACM Transactions on Embedded Computing (TECS), ACM.
+[J6] Desnos, Karol; Pelcat, Maxime; Nezan, Jean-François, Aridhi, Slaheddine (2016) "On Memory Reuse Between Inputs and Outputs of Dataflow Actors", ACM Transactions on Embedded Computing Systems (TECS), ACM.
 
 #### 2015  
 
