@@ -74,11 +74,13 @@ Journals are ranked there from Q1 (best quarter) to Q4 (last quarter), mostly ba
 
 Do not forget that the most important for you is your own opinion on the publication: does it bring you clear, reusable ideas on your topic? Does it open promising questions?
 
-## Writing method
+## Writing a publication
+
+### Writing method
 
 Writing with the LateX language is now universal. You can use tools such as [Overleaf](https://www.overleaf.com), or setup a git with you own Latex repository (better but takes more time and requires installation). LateX templates are to be found on the websites of conferences and journals.
 
-### LateX tips
+#### LateX tips
 
 For acronyms, you can use the acronym package:
 
@@ -94,15 +96,15 @@ it automatically decides where to put the long-form definition, i.e. at first us
 
 You can use plural with \acp (by defaut plural puts an s at the end, unless you define a specific plural).
 
-### Inkscape tips
+#### Inkscape tips
 
 For your figures, I advise to use mostly vector graphics and the open tool Inkscape. Activate the grid and experiment "snap to grid" options to be very precise in your graphics.
 
-## Writing content
+### Building the content of the publication
 
 You should write something you would like to read. You should also go from very general knowledge to particular knowledge, for your reader to get the context of your discussion. This is true for the whole document but also for each paragraph.
 
-Given the previous "Reading scientific articles" section here is a proposition of steps:
+Given the previous "Reading scientific articles" section here is a proposition of steps, that makes you write the paper in the reverse order it is read:
 
 1. Write your paper "little story"
   - Problem, Postulates, Needs, Competition and Comparison (qualitative or quantitative), Contributions of the paper to meet the needs, Method followed, Expected results
@@ -117,6 +119,12 @@ Given the previous "Reading scientific articles" section here is a proposition o
 
 Inspiring from the papers you have liked reading is always good.
 
+## Experimenting on system design
+
+While each experiment requires specific thinking, some elements are quite universal:
+- you can borrow the concept of "minimum viable product": what is the minimal system that can offer you reliable conclusions?
+- you can use the concept of "design of experiments": taking the time to imagine an optimized set of experiments for your demonstration.
+- for comparing different solutions, it is good to define "controlled experiments", i.e. experiments between which one parameter varies.
 
 
 
