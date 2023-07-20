@@ -12,9 +12,9 @@ I am an associate professor at the National Institute of Applied Sciences ([INSA
 
 My current main interests are sustainable, open and secure systems design with particular focus on:
 - **Sustainable processing systems** (fabrication, operation and end-of-life)
-- RISC-V-based open hardware
-- Machine learning at the edge
-- Security against electromagnetic side channels (hardware security)
+- **RISC-V-based open hardware**
+- **Machine learning at the edge**
+- **Security against electromagnetic side channels** (hardware security)
 
 On sustainable electronics, I coordinate the [ESOS](https://esos.insa-rennes.fr/) project (Electronics: Sustainable, Open and Sovereign). ESOS is funded by the french France2030 Plan d'Investissement d'Avenir. Presentations (videos and slides) of the project are availabale on the websites of [Green Days 2023](http://perso.ens-lyon.fr/laurent.lefevre/greendayslyon2023/), and [FSiC 2023](https://wiki.f-si.org/index.php/FSiC2023) organised by the [Free Silicon Foundation](https://f-si.org/).
 
