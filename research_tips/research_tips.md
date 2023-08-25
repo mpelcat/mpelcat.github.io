@@ -84,7 +84,7 @@ Writing with the LateX language is now universal. You can use tools such as [Ove
 
 For acronyms, you can use the acronym package:
 
-\include{acronym}
+\usepackage{acronym}
 
 - Examples of acronym definitions:
 \newacro{snr}[SNR]{Signal to Noise Ratio}
