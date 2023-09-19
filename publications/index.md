@@ -8,9 +8,9 @@ title: Publications
 
 [Rp2] Pelcat, Maxime (2023) "GHG emissions of semiconductor manufacturing in 2021", Research Report ESOS_2023-05_01, [https://hal.science/hal-04112708](https://hal.science/hal-04112708).
 
-[C68] Thu, May Myat; Méndez Real, Maria; Pelcat, Maxime; Besnier, Philippe (2023) "You Only Get One-Shot: Eavesdropping Input Images to Neural Network by Spying SoC-FPGA Internal Buses", ARES 2023, ACM, Benevento, Italy.
+[C68] Thu, May Myat; Méndez Real, Maria; Pelcat, Maxime; Besnier, Philippe (2023) "You Only Get One-Shot: Eavesdropping Input Images to Neural Network by Spying SoC-FPGA Internal Buses", International Conference on Availability, Reliability and Security (ARES 2023), ACM, Benevento, Italy.
 
-[C67] Thu, May Myat; Méndez Real, Maria; Pelcat, Maxime; Besnier, Philippe (2023) "Bus Electrocardiogram: Vulnerability of SoC-FPGA Internal AXI Buses to Electromagnetic Side-Channel Analysis", EMC Europe 2023, IEEE, Kraków, Poland.
+[C67] Thu, May Myat; Méndez Real, Maria; Pelcat, Maxime; Besnier, Philippe (2023) "Bus Electrocardiogram: Vulnerability of SoC-FPGA Internal AXI Buses to Electromagnetic Side-Channel Analysis", International Symposium and Exhibition on Electromagnetic Compatibility (EMC Europe 2023), IEEE, Kraków, Poland.
 
 [J24] Carballo-Hernández, Walther; Pelcat, Maxime; Bhattacharyya, Shuvra S.; Carmona Galán, Ricardo; Berry, François (2023) "Flydeling: Streamlined Performance Models for Hardware Acceleration of CNNs through System Identification", ACM Transactions on Modeling and Performance Evaluation of Computing Systems (ToMPECS), ACM, 2023.
 
