@@ -4,6 +4,8 @@ title: Publications
 
 #### 2023
 
+[C69] Guillaume, Jeremy; Pelcat, Maxime; Nafkha, Amor; Salvador, Ruben (2023) "Attacking at non-harmonic frequencies in screaming-channel attacks", Smart Card Research and Advanced Application Conference (CARDIS 2023), Rennes, France. 
+
 [Rp2] Pelcat, Maxime (2023) "GHG emissions of semiconductor manufacturing in 2021", Research Report ESOS_2023-05_01, [https://hal.science/hal-04112708](https://hal.science/hal-04112708).
 
 [C68] Thu, May Myat; Méndez Real, Maria; Pelcat, Maxime; Besnier, Philippe (2023) "You Only Get One-Shot: Eavesdropping Input Images to Neural Network by Spying SoC-FPGA Internal Buses", ARES 2023, ACM, Benevento, Italy.
