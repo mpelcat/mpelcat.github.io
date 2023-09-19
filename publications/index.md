@@ -4,7 +4,7 @@ title: Publications
 
 #### 2023
 
-[C69] Guillaume, Jeremy; Pelcat, Maxime; Nafkha, Amor; Salvador, Ruben (2023) "Attacking at non-harmonic frequencies in screaming-channel attacks", Smart Card Research and Advanced Application Conference (CARDIS 2023), Rennes, France. 
+[C69] Guillaume, Jeremy; Pelcat, Maxime; Nafkha, Amor; Salvador, Ruben (2023) "Attacking at non-harmonic frequencies in screaming-channel attacks", Smart Card Research and Advanced Application Conference (CARDIS 2023), Amsterdam, The Netherlands. 
 
 [Rp2] Pelcat, Maxime (2023) "GHG emissions of semiconductor manufacturing in 2021", Research Report ESOS_2023-05_01, [https://hal.science/hal-04112708](https://hal.science/hal-04112708).
 
