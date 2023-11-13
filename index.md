@@ -16,7 +16,7 @@ My current main interests are sustainable, open and secure systems design with p
 - **Machine learning at the edge**
 - **Security against electromagnetic side channels** (hardware security)
 
-On sustainable electronics, I coordinate the [ESOS](https://esos.insa-rennes.fr/) project (Electronics: Sustainable, Open and Sovereign). ESOS is funded by the french France2030 Plan d'Investissement d'Avenir. Presentations (videos and slides) of the project are availabale on the websites of [Green Days 2023](http://perso.ens-lyon.fr/laurent.lefevre/greendayslyon2023/), and [FSiC 2023](https://wiki.f-si.org/index.php/FSiC2023) organised by the [Free Silicon Foundation](https://f-si.org/).
+On sustainable electronics, I coordinate the [ESOS](https://esos.insa-rennes.fr/) project (Electronics: Sustainable, Open and Sovereign). ESOS is funded by the french France2030 Plan d'Investissement d'Avenir. Presentations (videos and slides) of the project are available on the websites of [Green Days 2023](http://perso.ens-lyon.fr/laurent.lefevre/greendayslyon2023/), and [FSiC 2023](https://wiki.f-si.org/index.php/FSiC2023) organised by the [Free Silicon Foundation](https://f-si.org/).
 
 My research is in the [VAADER](https://www.youtube.com/channel/UCXlqd2OoxNRVsaI-90riYug/videos) team of [IETR](https://www.ietr.fr/), the 6164 CNRS research unit. I have co-advised the following defended PhD theses:
 
