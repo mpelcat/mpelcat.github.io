@@ -78,6 +78,10 @@ Do not forget that the most important for you is your own opinion on the publica
 
 ## Writing a publication
 
+### Finding a target journal or conference
+
+The first method to find a target support is to look where closest state-of-the-art papers have been published. You can also use the french GDR (Groupement de recherche) communities to find the best community to communicate to. 
+
 ### Writing method
 
 Writing with the LateX language is now universal. You can use tools such as [Overleaf](https://www.overleaf.com), or setup a git with you own Latex repository (better but takes more time and requires installation). LateX templates are to be found on the websites of conferences and journals.
