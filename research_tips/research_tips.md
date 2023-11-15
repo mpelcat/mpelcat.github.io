@@ -61,16 +61,18 @@ Never read without writing something; otherwise you will forget. You can use a t
 
 A good practice is to build your bibliography on peer reviewed publications, i.e. publications evaluated and accepted by expert reviewers with an external view on the subject. When you read a paper, check where it has been published.
 
-Publications ranking is definitely not an exact science but here are some ranking websites for conference publications:
+Publications ranking is definitely not an exact science but here are some ranking websites for **conference** publications:
 - [http://www.conferenceranks.com/](http://www.conferenceranks.com/)
 - [http://portal.core.edu.au/conf-ranks/](http://portal.core.edu.au/conf-ranks/)
 
-Conferences are ranked A*, A, B, or C based mostly on their acceptance rate (i.e. the rate of papers that get rejected after peer review).
+Conferences are ranked A*, A, B, or C based mostly on their acceptance rate (i.e. the rate of papers that get rejected after peer review). [GDR SOC2](https://www.gdr-soc.cnrs.fr/) ranks conferences on circuits and systems here: [https://www.gdr-soc.cnrs.fr/conferences/](https://www.gdr-soc.cnrs.fr/conferences/).
 
-A free access ranking system for journals is:
+A free access ranking system for **journals** is:
 - [https://www.scimagojr.com/](https://www.scimagojr.com/)
 
 Journals are ranked there from Q1 (best quarter) to Q4 (last quarter), mostly based on their impact, i.e. on how many people read the articles.
+
+[GDR SOC2](https://www.gdr-soc.cnrs.fr/) ranks journals on circuits and systems here: [https://www.gdr-soc.cnrs.fr/les-revues-tableaux/](https://www.gdr-soc.cnrs.fr/les-revues-tableaux/).
 
 Do not forget that the most important for you is your own opinion on the publication: does it bring you clear, reusable ideas on your topic? Does it open promising questions?
 
