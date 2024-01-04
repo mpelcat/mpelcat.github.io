@@ -2,6 +2,10 @@
 title: Publications
 ---
 
+#### 2024
+
+[C70] Faye, Joseph W.; Haggui, Naouel; Kermarrec, Florent; Martin, Kevin J. M.; Bhattacharyya, Shuvra S.; Nezan, Jean-François; Pelcat, Maxime (2024) "Scratchy: A Class of Adaptable Architectures with Software-Managed Communication for Edge Streaming Applications", DASIP Workshop of the HiPEAC Conference, DASIP 2024, Springer.
+
 #### 2023
 
 [J25] Carballo-Hernández, Walther; Pelcat, Maxime; Berry, François (2023) "Automatic CNN Model Partitioning for GPU/FPGA‑based Embedded Heterogeneous Accelerators using Geometric Programming", Journal of Signal Processing Systems (JSPS), Springer.
