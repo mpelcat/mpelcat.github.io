@@ -80,7 +80,15 @@ Do not forget that the most important for you is your own opinion on the publica
 
 ### Finding a target journal or conference
 
-The first method to find a target support is to look where closest state-of-the-art papers have been published. You can also use the french GDR (Groupement de recherche) communities to find the best community to communicate to. 
+The first method to find a target conference or journal is to look where closest state-of-the-art papers have been published. You can also use the french GDR (Groupement de recherche) communities to find the best community to communicate to. 
+
+When choosing a conference, there are 4 criteria to consider:
+1- Do your skills and planned work enable you to cover a topic within the scope of the conference?
+2- will your presentation interest the specific conference reviewers, and other conference attendees?
+3- will presentations of other conference attendees interest you?
+4- will this publication count as a peer reviewed one published in proceedings, and what will be its impact?
+
+For all these points, looking to previous proceedings of the conference is crucial.
 
 ### Writing method
 
