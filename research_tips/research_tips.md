@@ -116,12 +116,14 @@ For your figures, I advise to use mostly vector graphics and the open tool Inksc
 
 ### Building the content of the publication
 
-You should write something you would like to read. You should also go from very general knowledge to particular knowledge, for your reader to get the context of your discussion. This is true for the whole document but also for each paragraph.
+You should write something you would like to read. You should also **go from very general knowledge to particular knowledge**, for your reader to get the context of your discussion. This is true for the whole document but also for each paragraph.
+
+Use a scientific method: what are the solved problem, the hypotheses, the proposed method of study, the experimental setup, the results. Finally, discuss pros, cons, and perspectives of your proposal. 
 
 Given the previous "Reading scientific articles" section here is a proposition of steps, that makes you write the paper in the reverse order it is read:
 
 1. Write your paper "little story"
-  - Problem, Postulates, Needs, Competition and Comparison (qualitative or quantitative), Contributions of the paper to meet the needs, Method followed, Expected results
+  - **Problem**, **Postulates**, **Needs**, **Competition and Comparison** (qualitative or quantitative), **Contributions** of the paper to meet the needs, **Method** followed, Expected **results**
   - Note: competition and comparison require knowledge of the state of the art, so a lot of reading
 2. Put the titles of the sections
 3. Draw the figures (to illustrate your point)
@@ -131,7 +133,9 @@ Given the previous "Reading scientific articles" section here is a proposition o
 7. Write the intro
 8. Write the abstract and title
 
-Inspiring from the papers you have liked reading is always good.
+Inspiring from the papers you have liked reading is always good. You can look at the section "Reading scientific articles" above, as this is how your paper shall be readable: one should get the exact same "little story" from abstract, titles and figures, conclusion and introduction, and full paper.
+
+A paper is good if it fulfills 4 conditions: the subject is of importance, the proposal is new, the proposal is a step ahead state-of-the-art, the experiments are sufficient to conclude. A balance must be found between these 4 properties. 
 
 ## Experimenting on system design
 
