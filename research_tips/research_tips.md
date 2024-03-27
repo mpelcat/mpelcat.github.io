@@ -118,6 +118,7 @@ For your figures, I advise to use mostly vector graphics and the open tool Inksc
 
 You should write something you would like to read. You should also **go from very general knowledge to particular knowledge**, for your reader to get the context of your discussion. This is true for the whole document but also for each paragraph.
 
+**You may use the following document to evaluate and check your idea: [contribution_evaluation.pdf](https://mpelcat.github.io/doc/contribution_evaluation_v3.pdf).
 Use a scientific method: what are the solved problem, the hypotheses, the proposed method of study, the experimental setup, the results. Finally, discuss pros, cons, and perspectives of your proposal. 
 
 Given the previous "Reading scientific articles" section here is a proposition of steps, that makes you write the paper in the reverse order it is read:
