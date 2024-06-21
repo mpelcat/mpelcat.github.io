@@ -4,6 +4,8 @@ title: Publications
 
 #### 2024
 
+[C71] Delolme, Eloise; Fischer, Viktor; Bernard, Florent; Bochard, Nathalie; Pelcat, Maxime, "Beyond Total Locking: Demonstrating and Measuring Mutual Influence on a RO-Based True Random Number Generator on an FPGA", 2024 IEEE 37th International System-on-Chip Conference (SOCC), Dresden, Germany.
+
 [C70] Faye, Joseph W.; Haggui, Naouel; Kermarrec, Florent; Martin, Kevin J. M.; Bhattacharyya, Shuvra S.; Nezan, Jean-François; Pelcat, Maxime (2024) "Scratchy: A Class of Adaptable Architectures with Software-Managed Communication for Edge Streaming Applications", DASIP Workshop of the HiPEAC Conference, DASIP 2024, Springer.
 
 #### 2023
