@@ -101,14 +101,24 @@ For acronyms, you can use the acronym package:
 \usepackage{acronym}
 
 - Examples of acronym definitions:
-\newacro{snr}[SNR]{Signal to Noise Ratio}
-\newacroplural{poi}[POI]{Points of Interest}
+```\newacro{snr}[SNR]{Signal to Noise Ratio}```
+```\newacroplural{poi}[POI]{Points of Interest}```
 
-Then you can insert acronyms in text with for instance: \ac{snr}
+Then you can insert acronyms in text with for instance: ```\ac{snr}```
 
-it automatically decides where to put the long-form definition, i.e. at first use of the acronym. You can force long or short forms with \acl and \acs.
+it automatically decides where to put the long-form definition, i.e. at first use of the acronym. You can force long or short forms with ```\acl``` and ```\acs```.
 
-You can use plural with \acp (by defaut plural puts an s at the end, unless you define a specific plural).
+You can use plural with ```\acp``` (by defaut plural puts an s at the end, unless you define a specific plural).
+
+On another topic, here is a method to insert comments in latex, color them, add the initials of commenter, and activate/deactivate them.
+the following line (in document preamble) activates comments for a given reviewer in the text.
+```\newcommand{\maxime}[1]{\textcolor{purple}{#1 \textbf{\textsuperscript{(MP)}}}}```
+
+You may add the following line just under previous one to make all comments from the reviewer disappear from the text.
+```\renewcommand{\maxime}[1]{}```
+
+To comment a given paragraph, you can then use the following expression within document body.
+```\maxime{Here is my comment}```
 
 #### Inkscape tips
 
