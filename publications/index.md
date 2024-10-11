@@ -58,9 +58,12 @@ title: Publications
 
 [J19] Sidaty, Naty; Heulot, Julien; Hamidouche, Wassim; Pelcat, Maxime; Ménard, Daniel (2020) "Software HEVC Video Decoder: Towards an Energy Saving for Mobile Applications", Multimedia Tools and Applications, Springer.
 
+[Ch4] Abdelouahab, Kamel; Pelcat, Maxime; & Berry, François (2020). "Accelerating the CNN inference on FPGAs". In Deep Learning in Computer Vision (pp. 1-40). CRC Press.
+
 [C57] Lemarchand, Florian; Fernandes Montesuma, Eduardo; Pelcat, Maxime; Nogues, Erwan (2020) "OpenDenoising: an Extensible Benchmark for Building Comparative Studies of Image Denoisers", ICASSP 2020, Barcelona, Spain.
 
 [C56] Lemarchand, Florian; Marlin, Cyril; Montreuil, Florent; Nogues, Erwan; Pelcat, Maxime (2020) "Electro-Magnetic Side-Channel Attack Through Learned Denoising and Classification", ICASSP 2020, Barcelona, Spain.
+
 [J18] Civerchia, Federico; Pelcat, Maxime; Maggiani, Luca; Kondepu, Koteswararao; Castoldi, Piero; Valcarenghi, Luca (2020) "Is OpenCL Driven Reconfigurable Hardware Suitable for Virtualising 5G Infrastructure?", IEEE Transactions on Network and Service Management, IEEE.  
 
 #### 2019  
