@@ -155,5 +155,7 @@ While each experiment requires specific thinking, some elements are quite univer
 - you can use the concept of "design of experiments": taking the time to imagine an optimized set of experiments for your demonstration.
 - for comparing different solutions, it is good to define "controlled experiments", i.e. experiments between which one parameter varies.
 
+## Submitting a manuscript
 
+When you submit a publication to a conference or journal, **review is either single-blind or double-blind**. If this is not clearly stated on the conference or journal website, you shall contact the editor. In a single-blind review process, you do not know who your reviewers are but your reviewers know who you are. As a consequence, authors names and self-citations can be included in the manuscript with no special care. In a double-blind review process, you still do not know who the reviewers are, but reviewers shall not know who you are either. In this case, names shall be removed from the manuscript, and potential self citations shall be cited in a way they cannot be distinguished from citations to other authors' prior work.
 
