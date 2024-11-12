@@ -146,7 +146,16 @@ Given the previous "Reading scientific articles" section here is a proposition o
 
 Inspiring from the papers you have liked reading is always good. You can look at the section "Reading scientific articles" above, as this is how your paper shall be readable: one should get the exact same "little story" from abstract, titles and figures, conclusion and introduction, and full paper.
 
-A paper is good if it fulfills 4 conditions: the subject is of importance, the proposal is new, the proposal is a step ahead state-of-the-art, the experiments are sufficient to conclude. A balance must be found between these 4 properties. 
+A paper is good if it fulfills 4 conditions: the subject is of importance, the proposal is new, the proposal is a step ahead state-of-the-art, the experiments are sufficient to conclude. A balance must be found between these 4 properties. The main weaknesses criticised in publications are:
+- a lack of clarity: The content is not well written, or not precise enough, or uses concepts that are not introduced.
+- a lack of novelty: the idea has been published before, or is very close to an idea that has been published before.
+- a lack of novelty: the area of research has been well covered before and the community considers the problem as mostly "solved".
+- a lack of novelty: the gain offered by the proposal w.r.t. previous work is not convincing.
+- a lack of results: experimental results do not sufficiently demonstrate the performance obtained by applying the idea.
+- a lack of results: the ablation study is not sufficient, i.e. experiments are not sufficient to give a broad view of the problem.
+- a lack of reproducibility: there are not enough details on the experimental setup to reproduce the experimental work and results.
+- a lack of state-of-the-art: some close state-of-the-art is missing in the references.
+- a lack of state-of-the-art: the competitors to which results are compared are not well selected.
 
 ## Experimenting on system design
 
