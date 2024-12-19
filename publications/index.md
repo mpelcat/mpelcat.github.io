@@ -2,6 +2,14 @@
 title: Publications
 ---
 
+#### 2025 
+
+[C75] Bahi, Mohamed Alla Eddine; Mendez Real, Maria; Pelcat, Maxime (2025) "Comb Frequency Division Multiplexing: A Non-Binary Modulation For AirGap Covert Channel Transmission", Design, Automation & Test in Europe Conference & Exhibition (DATE), Lyon, France. 
+
+[C74] Haggui, Naouel; Pelcat, Maxime; Lee, Yaesop; Bhattacharyya, Shuvra S.; Martin, Kevin; Nezan, Jean-François (2025) "Comparative Study of Memory Optimization Techniques for Dataflow-Modeled Applications", The 18th Workshop on Design and Architectures for Signal and Image Processing (DASIP 2025), Barcelona, Spain.
+
+[C73] Kahanam, Mewe-hezoudah; Desnos, Karol; Fortier, Guillaume; Pelcat, Maxime (2025) "GEMMify: a Unified Model for Layer-Wise DNN Performance Prediction on Edge GPUs", 20th IEEE International NEWCAS conference (NEWCAS 2025), Bordeaux, France.
+
 #### 2024
 
 [C72] Weppe, Olivier; Chossat, Jérôme; Marty, Thibaut; Prévotet, Jean-Christophe; Pelcat, Maxime (2024) "Streamlined Models of CMOS Image Sensors Carbon Impacts", 27th Euromicro Conference Series on Digital System Design (DSD 2024), Paris, France.
