@@ -4,6 +4,8 @@ title: Publications
 
 #### 2025 
 
+[C76] Le Gargasson, Pierre; Pelcat, Maxime; Beuve, Nicolas; Pressigout, Muriel; Morin, Luce; Menard, Daniel (2025) "PCBnCO: A Carbon Intensity Model of FR-4Printed Circuit Boards Based on Company Data", IEEE Sustainable Technologies, Los Angeles, USA, 2025.
+
 [C75] Bahi, Mohamed Alla Eddine; Mendez Real, Maria; Pelcat, Maxime (2025) "Comb Frequency Division Multiplexing: A Non-Binary Modulation For AirGap Covert Channel Transmission", Design, Automation & Test in Europe Conference & Exhibition (DATE), Lyon, France. 
 
 [C74] Haggui, Naouel; Pelcat, Maxime; Lee, Yaesop; Bhattacharyya, Shuvra S.; Martin, Kevin; Nezan, Jean-François (2025) "Comparative Study of Memory Optimization Techniques for Dataflow-Modeled Applications", The 18th Workshop on Design and Architectures for Signal and Image Processing (DASIP 2025), Barcelona, Spain.
