@@ -10,7 +10,7 @@ title: Publications
 
 [C74] Haggui, Naouel; Pelcat, Maxime; Lee, Yaesop; Bhattacharyya, Shuvra S.; Martin, Kevin; Nezan, Jean-François (2025) "Comparative Study of Memory Optimization Techniques for Dataflow-Modeled Applications", The 18th Workshop on Design and Architectures for Signal and Image Processing (DASIP 2025), Barcelona, Spain.
 
-[C73] Kahanam, Mewe-hezoudah; Desnos, Karol; Fortier, Guillaume; Pelcat, Maxime (2025) "GEMMify: a Unified Model for Layer-Wise DNN Performance Prediction on Edge GPUs", 20th IEEE International NEWCAS conference (NEWCAS 2025), Bordeaux, France.
+[C73] Kahanam, Mewe-hezoudah; Desnos, Karol; Fortier, Guillaume; Pelcat, Maxime (2025) "GEMMify: a Unified Model for Layer-Wise DNN Performance Prediction on Edge GPUs", 7th IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS 2025), Bordeaux, France.
 
 #### 2024
 
