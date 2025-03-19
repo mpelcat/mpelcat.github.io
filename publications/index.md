@@ -1,8 +1,10 @@
 ---
-title: Publications
+title: Publications and Reports
 ---
 
 #### 2025 
+
+[Rp3] Beuve, Nicolas; Pelcat, Maxime; Bhattacharyya, Shuvra S. (2025) "Componentflow Process Networks: a Product Reuse Model for the Circular Economy", Research Report ESOS_2025-02_01, https://hal.science/hal-04965546v1.
 
 [C76] Le Gargasson, Pierre; Pelcat, Maxime; Beuve, Nicolas; Pressigout, Muriel; Morin, Luce; Menard, Daniel (2025) "PCBnCO: A Carbon Intensity Model of FR-4Printed Circuit Boards Based on Company Data", IEEE Sustainable Technologies, Los Angeles, USA, 2025.
 
