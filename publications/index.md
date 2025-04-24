@@ -4,6 +4,10 @@ title: Publications and Reports
 
 #### 2025 
 
+[C78] Weppe, Olivier; Marty, Thibaut; Toussaint, Sébastien; Brusselmans, Nicolas; Prévotet, Jean-Christophe; Raskin, Jean-Pierre; Pelcat, Maxime (2025) "Embodied Carbon Footprint of 3D NAND Memories", Sustainable Computing Workshop, ACM Computing Frontiers Conference 2025, Cagliari, Italy.
+
+[C78] Chedotel, Benjamin; Marty, Thibaut; Berry, François; Pelcat, Maxime (2025) "Methodological Challenges in Conducting a Screening Life Cycle Assessment of Dense Electronic Devices: The Case of Smartphones", Sustainable Computing Workshop, ACM Computing Frontiers Conference 2025, Cagliari, Italy.
+
 [C77] Bahi, Mohamed Alla Eddine; Mendez Real, Maria; Nogues, Erwan; Pelcat, Maxime (2025) "AudioGap: An AirGapped Covert Channel Exploiting the Frequency Diversity of Audio IC Electromagnetic Leakage", IEEE Computers, Software, and Applications Conference (COMPSAC 2025), Toronto, Canada.
 
 [Rp3] Beuve, Nicolas; Pelcat, Maxime; Bhattacharyya, Shuvra S. (2025) "Componentflow Process Networks: a Product Reuse Model for the Circular Economy", Research Report ESOS_2025-02_01, [https://hal.science/hal-04965546v1](https://hal.science/hal-04965546v1).
