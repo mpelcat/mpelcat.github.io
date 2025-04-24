@@ -4,7 +4,7 @@ title: Publications and Reports
 
 #### 2025 
 
-[C78] Weppe, Olivier; Marty, Thibaut; Toussaint, Sébastien; Brusselmans, Nicolas; Prévotet, Jean-Christophe; Raskin, Jean-Pierre; Pelcat, Maxime (2025) "Embodied Carbon Footprint of 3D NAND Memories", Sustainable Computing Workshop, ACM Computing Frontiers Conference 2025, Cagliari, Italy.
+[C79] Weppe, Olivier; Marty, Thibaut; Toussaint, Sébastien; Brusselmans, Nicolas; Prévotet, Jean-Christophe; Raskin, Jean-Pierre; Pelcat, Maxime (2025) "Embodied Carbon Footprint of 3D NAND Memories", Sustainable Computing Workshop, ACM Computing Frontiers Conference 2025, Cagliari, Italy.
 
 [C78] Chedotel, Benjamin; Marty, Thibaut; Berry, François; Pelcat, Maxime (2025) "Methodological Challenges in Conducting a Screening Life Cycle Assessment of Dense Electronic Devices: The Case of Smartphones", Sustainable Computing Workshop, ACM Computing Frontiers Conference 2025, Cagliari, Italy.
 
