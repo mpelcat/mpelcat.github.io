@@ -4,7 +4,7 @@ title: Publications and Reports
 
 #### 2025 
 
-[C81] Le Gargasson, Pierre; Weppe, Olivier; Marty, Thibaut; Pelcat, Maxime; Ménard, Daniel; Herglotz, Christian (2025) "Use or Produce - Carbon Impact of a Video Streaming Device", ISCAS Conference 2025, London, United Kingdom.
+[C81] Le Gargasson, Pierre; Weppe, Olivier; Marty, Thibaut; Pelcat, Maxime; Ménard, Daniel; Herglotz, Christian (2025) "Use or Produce - Carbon Impact of a Video Streaming Device", IEEE ISCAS Conference 2025, London, United Kingdom.
 
 [C80] Bahi, Mohamed Alla Eddine; Mendez Real, Maria; Nogues, Erwan; Pelcat, Maxime (2025) "Clock-to-Clock Modulation Covert Channel", EMC Europe, Paris, France. 
 
