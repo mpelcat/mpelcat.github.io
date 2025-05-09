@@ -5,6 +5,7 @@ title: Publications and Reports
 #### 2025 
 
 [C81] Le Gargasson, Pierre; Weppe, Olivier; Marty, Thibaut; Pelcat, Maxime; Ménard, Daniel; Herglotz, Christian (2025) "Use or Produce - Carbon Impact of a Video Streaming Device", ISCAS Conference 2025, London, United Kingdom.
+
 [C80] Bahi, Mohamed Alla Eddine; Mendez Real, Maria; Nogues, Erwan; Pelcat, Maxime (2025) "Clock-to-Clock Modulation Covert Channel", EMC Europe, Paris, France. 
 
 [C79] Weppe, Olivier; Marty, Thibaut; Toussaint, Sébastien; Brusselmans, Nicolas; Prévotet, Jean-Christophe; Raskin, Jean-Pierre; Pelcat, Maxime (2025) "Embodied Carbon Footprint of 3D NAND Memories", Sustainable Computing Workshop, ACM Computing Frontiers Conference 2025, Cagliari, Italy.
