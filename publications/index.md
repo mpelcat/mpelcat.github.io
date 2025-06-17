@@ -4,6 +4,8 @@ title: Publications and Reports
 
 #### 2025 
 
+[C82] Weppe, Olivier; Bekri, David; Marty, Thibaut; Guibert, Loïc; Aubet, Louise; Prévotet, Jean-Christophe; Pelcat, Maxime; Rumley, Sébastien (2025) "Carbon Topography Representation: Improving Impacts of Data Center Lifecycle", Hotcarbon Workshop on Sustainable Computer Systems 2025, Cambridge, MA, USA.
+
 [C81] Le Gargasson, Pierre; Weppe, Olivier; Marty, Thibaut; Pelcat, Maxime; Ménard, Daniel; Herglotz, Christian (2025) "Use or Produce - Carbon Impact of a Video Streaming Device", IEEE ISCAS Conference 2025, London, United Kingdom.
 
 [C80] Bahi, Mohamed Alla Eddine; Mendez Real, Maria; Nogues, Erwan; Pelcat, Maxime (2025) "Clock-to-Clock Modulation Covert Channel", EMC Europe, Paris, France. 
