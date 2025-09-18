@@ -4,7 +4,9 @@ title: Publications and Reports
 
 #### 2025 
 
-[C82] Weppe, Olivier; Bekri, David; Marty, Thibaut; Guibert, Loïc; Aubet, Louise; Prévotet, Jean-Christophe; Pelcat, Maxime; Rumley, Sébastien (2025) "Carbon Topography Representation: Improving Impacts of Data Center Lifecycle", Hotcarbon Workshop on Sustainable Computer Systems 2025, Cambridge, MA, USA.
+[C83] Weppe, Olivier; Bekri, David; Marty, Thibaut; Guibert, Loïc; Aubet, Louise; Prévotet, Jean-Christophe; Pelcat, Maxime; Rumley, Sébastien (2025) "Carbon Topography Representation: Improving Impacts of Data Center Lifecycle", Hotcarbon Workshop on Sustainable Computer Systems 2025, Cambridge, MA, USA.
+
+[C82] Ciambra, Pedro; Cloarec, Anaëlle; Yviquel, Hervé; Dardaillon, Mickaël; Pelcat, Maxime (2025) "From Static to Quasi-Dynamic: Reconsidering Scheduling and Memory in SDF Compilers", 16th Workshop on Applications for Multi-Core Architectures (WAMCA 2025), Colocated with SBAC-PADW Conference 2025, Bonito, MS, Brazil.
 
 [C81] Le Gargasson, Pierre; Weppe, Olivier; Marty, Thibaut; Pelcat, Maxime; Ménard, Daniel; Herglotz, Christian (2025) "Use or Produce - Carbon Impact of a Video Streaming Device", IEEE ISCAS Conference 2025, London, United Kingdom.
 
