@@ -4,6 +4,8 @@ title: Publications and Reports
 
 #### 2025 
 
+[J26] Beuve, Nicolas; Pelcat, Maxime; Bhattacharyya, Shuvra S. (2025) "Componentflow Process Networks: a Product Reuse Model for the Circular Economy", Circular Economy and Sustainability, Springer.
+
 [C83] Weppe, Olivier; Bekri, David; Marty, Thibaut; Guibert, Loïc; Aubet, Louise; Prévotet, Jean-Christophe; Pelcat, Maxime; Rumley, Sébastien (2025) "Carbon Topography Representation: Improving Impacts of Data Center Lifecycle", Hotcarbon Workshop on Sustainable Computer Systems 2025, Cambridge, MA, USA.
 
 [C82] Ciambra, Pedro; Cloarec, Anaëlle; Yviquel, Hervé; Dardaillon, Mickaël; Pelcat, Maxime (2025) "From Static to Quasi-Dynamic: Reconsidering Scheduling and Memory in SDF Compilers", 16th Workshop on Applications for Multi-Core Architectures (WAMCA 2025), Colocated with SBAC-PADW Conference 2025, Bonito, MS, Brazil.
