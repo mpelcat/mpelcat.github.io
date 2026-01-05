@@ -2,6 +2,10 @@
 title: Publications and Reports
 ---
 
+#### 2026
+
+[C84] Weppe, Olivier; Marty, Thibaut; Prévotet, Jean-Christophe; Pelcat, Maxime (2026) "Beyond Silicon Area: Co-Product Allocation for a Binning-Aware Carbon Footprint of Processors", IEEE Sustainable Technologies, Los Angeles, USA, 2026.
+
 #### 2025 
 
 [J26] Beuve, Nicolas; Pelcat, Maxime; Bhattacharyya, Shuvra S. (2025) "Componentflow Process Networks: a Product Reuse Model for the Circular Economy", Circular Economy and Sustainability, Springer.
