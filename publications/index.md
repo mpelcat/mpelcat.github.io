@@ -4,7 +4,7 @@ title: Publications and Reports
 
 #### 2026
 
-[C84] Weppe, Olivier; Marty, Thibaut; Prévotet, Jean-Christophe; Pelcat, Maxime (2026) "Beyond Silicon Area: Co-Product Allocation for a Binning-Aware Carbon Footprint of Processors", IEEE Sustainable Technologies, Los Angeles, USA, 2026.
+[C84] Weppe, Olivier; Marty, Thibaut; Prévotet, Jean-Christophe; Pelcat, Maxime (2026) "Beyond Silicon Area: Co-Product Allocation for a Binning-Aware Carbon Footprint of Processors", IEEE Sustainable Technologies, Orange County, USA, 2026.
 
 #### 2025 
 
