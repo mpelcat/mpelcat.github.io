@@ -2,20 +2,22 @@
 
 ### Main teaching and research interests
 
-I am a professor at the National Institute of Applied Sciences ([INSA](https://www.insa-rennes.fr/)) in Rennes, France. I teach embedded systems design subjects in the [EII](https://www.insa-rennes.fr/eii.html) and [E-SET](https://www.insa-rennes.fr/e-set.html) departments. My main courses are:
+I am a professor at the National Institute of Applied Sciences ([INSA](https://www.insa-rennes.fr/)) and in the [IETR](https://www.ietr.fr/) laboratory (CNRS research unit Nr 6164) in Rennes, France. 
+
+**My main research interest is on digital systems eco-design, and sustainable electronics**. In particular, we study with students and colleagues methods for precisely evaluating the direct environmental impacts of systems, and for provably lowering these impacts by advanced design methods while preserving the functional properties of systems (user experience, security and intelligence). Topics I have recently addressed include:
+- Sustainable processing systems (fabrication, operation and end-of-life)
+- Machine learning at the edge
+- RISC-V-based open hardware
+- Security against electromagnetic side channels and covert channels (hardware security)
+  
+I teach computing systems design subjects in the [EII](https://www.insa-rennes.fr/eii.html) and [E-SET](https://www.insa-rennes.fr/e-set.html) departments. My main courses are:
 - VHDL register-transfer level system design
 - Digital hardware design including softcore integration and HW-SW interactions
 - Microcontroller programming and I/Os
 - Embedded Linux
 - Analog electronics design (a bit)
 - Hardware security
-
-My current main interests are sustainable, open and secure systems design with particular focus on:
-- **Sustainable processing systems** (fabrication, operation and end-of-life)
-- **RISC-V-based open hardware**
-- **Machine learning at the edge**
-- **Security against electromagnetic side channels** (hardware security)
-
+  
 On sustainable electronics, I coordinate the **[ESOS](https://esos.insa-rennes.fr/) project (Electronics: Sustainable, Open and Sovereign)**. ESOS is funded by the french France2030 Plan d'Investissement d'Avenir. Presentations (videos and slides) of the project are available on the websites of [Green Days 2023](http://perso.ens-lyon.fr/laurent.lefevre/greendayslyon2023/), and [FSiC 2023](https://wiki.f-si.org/index.php/FSiC2023) organised by the [Free Silicon Foundation](https://f-si.org/).
 
 My research is in the [VAADER](https://www.youtube.com/channel/UCXlqd2OoxNRVsaI-90riYug/videos) team of [IETR](https://www.ietr.fr/), the 6164 CNRS research unit. I have co-advised the following defended PhD theses:
