@@ -4,6 +4,8 @@ title: Publications and Reports
 
 #### 2026
 
+[J27] Guillaume, Jérémy; Pelcat, Maxime; Nafkha, Amor; Salvador, Ruben (2026) "Multi-Screaming-Channel Attacks: Frequency Diversity for Enhanced Attacks", IEEE Transactions on Information Forensics and Security, IEEE.
+
 [C84] Weppe, Olivier; Marty, Thibaut; Prévotet, Jean-Christophe; Pelcat, Maxime (2026) "Beyond Silicon Area: Co-Product Allocation for a Binning-Aware Carbon Footprint of Processors", IEEE Sustainable Technologies, Orange County, USA, 2026.
 
 #### 2025 
