@@ -4,6 +4,10 @@ title: Publications and Reports
 
 #### 2026
 
+[C86] Chedotel, Benjamin; Marty, Thibaut; Berry, François; Mercat, Alexandre; Vanne, Jarno; Pelcat, Maxime (2026) "Analysis of the Relationship Between Carbon Footprint and Mineral Resource Depletion in the Life Cycle Assessment of Digital Systems", Sustainable Computing Workshop, ACM Computing Frontiers Conference 2026, Catania, Italy.
+
+[C85] Corlay, Vincent; Bekri, David; Lacroix, Marie-Anne; Pelcat, Maxime; Péralta, Maxime; Pichon, Pierre-Yves; Saillenfest, Leo; Weppe, Olivier; Rumley, Sébastien (2026) "All LCA models are wrong. Are some of them useful? Towards open computational LCA in ICT", Sustainable Computing Workshop, ACM Computing Frontiers Conference 2026, Catania, Italy.
+
 [J27] Guillaume, Jérémy; Pelcat, Maxime; Nafkha, Amor; Salvador, Ruben (2026) "Multi-Screaming-Channel Attacks: Frequency Diversity for Enhanced Attacks", IEEE Transactions on Information Forensics and Security, IEEE.
 
 [C84] Weppe, Olivier; Marty, Thibaut; Prévotet, Jean-Christophe; Pelcat, Maxime (2026) "Beyond Silicon Area: Co-Product Allocation for a Binning-Aware Carbon Footprint of Processors", IEEE Sustainable Technologies, Orange County, USA, 2026.
