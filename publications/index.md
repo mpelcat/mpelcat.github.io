@@ -4,6 +4,8 @@ title: Publications and Reports
 
 #### 2026
 
+[C87] Bahi, Mohamed Alla Eddine; Mendez Real, Maria; Nogues, Erwan; Pelcat, Maxime (2026) "EMSync: An In-Board EM Covert Channel Attack That Circumvents EMC Protection", EMC Europe, Prague, Czech Republic.
+
 [C86] Chedotel, Benjamin; Marty, Thibaut; Berry, François; Mercat, Alexandre; Vanne, Jarno; Pelcat, Maxime (2026) "Analysis of the Relationship Between Carbon Footprint and Mineral Resource Depletion in the Life Cycle Assessment of Digital Systems", Sustainable Computing Workshop, ACM Computing Frontiers Conference 2026, Catania, Italy.
 
 [C85] Corlay, Vincent; Bekri, David; Lacroix, Marie-Anne; Pelcat, Maxime; Péralta, Maxime; Pichon, Pierre-Yves; Saillenfest, Leo; Weppe, Olivier; Rumley, Sébastien (2026) "All LCA models are wrong. Are some of them useful? Towards open computational LCA in ICT", Sustainable Computing Workshop, ACM Computing Frontiers Conference 2026, Catania, Italy.
