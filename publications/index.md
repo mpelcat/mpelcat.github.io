@@ -4,6 +4,8 @@ title: Publications and Reports
 
 #### 2026
 
+[C88] Chedotel, Benjamin; Marty, Thibaut; Berry, François; Pelcat, Maxime (2025) "Automating Inventory for Life Cycle Assessment of Computing Systems through Machine Vision", ICT for Sustainability 2026, Bern, Switzerland.
+
 [C87] Bahi, Mohamed Alla Eddine; Mendez Real, Maria; Nogues, Erwan; Pelcat, Maxime (2026) "EMSync: An In-Board EM Covert Channel Attack That Circumvents EMC Protection", EMC Europe, Prague, Czech Republic.
 
 [C86] Chedotel, Benjamin; Marty, Thibaut; Berry, François; Mercat, Alexandre; Vanne, Jarno; Pelcat, Maxime (2026) "Analysis of the Relationship Between Carbon Footprint and Mineral Resource Depletion in the Life Cycle Assessment of Digital Systems", Sustainable Computing Workshop, ACM Computing Frontiers Conference 2026, Catania, Italy.
