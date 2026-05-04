@@ -4,7 +4,9 @@ title: Publications and Reports
 
 #### 2026
 
-[C88] Chedotel, Benjamin; Marty, Thibaut; Berry, François; Pelcat, Maxime (2025) "Automating Inventory for Life Cycle Assessment of Computing Systems through Machine Vision", ICT for Sustainability 2026, Bern, Switzerland.
+[C89] Fréneau, Louis; Nguyen, Nhan; Gautier, Guillaume; Sjövall, Panu; Pelcat, Maxime; Mercat, Alexandre; Vanne, Jarno (2026), "Energy Consumption Analysis of FPGA-Accelerated 2D HEVC Encoding in a Practical V-PCC Encoder", IEEE International Conference on Image Processing (ICIP), Tampere, Finland.
+
+[C88] Chedotel, Benjamin; Marty, Thibaut; Berry, François; Pelcat, Maxime (2025) "Automating Inventory for Life Cycle Assessment of Computing Systems through Machine Vision", ICT for Sustainability (ICT4S), Bern, Switzerland.
 
 [C87] Bahi, Mohamed Alla Eddine; Mendez Real, Maria; Nogues, Erwan; Pelcat, Maxime (2026) "EMSync: An In-Board EM Covert Channel Attack That Circumvents EMC Protection", EMC Europe, Prague, Czech Republic.
 
