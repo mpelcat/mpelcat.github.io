@@ -2,6 +2,10 @@
 title: Publications and Reports
 ---
 
+#### 2027
+
+[C90] Chedotel, Benjamin; Marty, Thibaut; Berry, François; Mercat, Alexandre; Pelcat, Maxime (2027), "Grid-Agnostic Quantification of Digital Systems Carbon Footprint", Design, Automation and Test in Europe (DATE), Dresden, Germany, 2027.
+
 #### 2026
 
 [C89] Fréneau, Louis; Nguyen, Nhan; Gautier, Guillaume; Sjövall, Panu; Pelcat, Maxime; Mercat, Alexandre; Vanne, Jarno (2026), "Energy Consumption Analysis of FPGA-Accelerated 2D HEVC Encoding in a Practical V-PCC Encoder", IEEE International Conference on Image Processing (ICIP), Tampere, Finland.
